@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Heitor Oliveira
 - 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently learning Python and MySQL
+- 🌱 I’m currently learning Python, SQL and Java/JavaScript
 - 📫 How to reach me: heitor19oliveira@gmail.com
 
 <!---
